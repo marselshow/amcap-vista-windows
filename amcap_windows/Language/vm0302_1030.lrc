@@ -1,0 +1,69 @@
+[VMCOLORPROPERTY]
+General=Generelt
+Brightness=Lysstyrke
+Contrast=Kontrast
+Gamma=Gamma
+Saturation=Mætning
+Sharpness=Skarphed
+Hue=Nuance
+USB Camera=USB Kamera
+Camera On=Kamera til
+Default=Standard
+Load=Indlæs
+Save As=Gem som
+
+
+[VMCAMERAPROPERTY]
+Camera=Kamera
+Image=Billede
+White Balance=Hvidbalance
+Auto=Automatisk
+Cyan=Cyan
+Magenta=Magenta
+Yellow=Gul
+Red=Rød
+Green=Grøn
+Blue=Blå
+Mirror=Spejlvend
+Horizontal=Vandret
+Vertical=Lodret
+Spotlight=Spotlys
+Status LED=LED
+On=Til
+Off=Fra
+Exposure=Eksponering
+Shutter=Lukker
+Shutter Speed=Lukker
+Fast=Hurtig
+Slow=Langsom
+Flicker=Flimmer
+Outdoor=Udendørs
+USB Bandwidth=USB-båndbredde
+Default=Standard
+Load=Indlæs
+Save As=Gem som
+1 (Slowest)=1(Langsom)
+2 (Slower)=2
+3 (Slow)=3
+4 (Middle)=4
+5 (Fast)=5
+6 (Faster)=6
+7 (Fastest)=7(Hurtig)
+
+
+[VMPANTILTPROPERTY]
+Advanced=Avanceret
+Disable=Deaktiver
+Mask=Maske
+Manual Zoom=Manuel zoom
+Smooth Background=Jævn baggrund
+Wide Screen=Bredformat
+Video Off=Video fra
+Face Tracking=Ansigtssporing
+Tracking speed=Sporingshastighed
+Picture in Picture=Billede i billede
+Lower Right=Nederst til højre
+Lower Left=Nederst til venstre
+Upper Right=Nederst til venstre
+Upper Left=Øverst til venstre
+Tracking Line=Sporingslinje

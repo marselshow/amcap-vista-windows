@@ -1,0 +1,68 @@
+[VMCOLORPROPERTY]
+General=Generale
+Brightness=Luminosità
+Contrast=Contrasto
+Gamma=Gamma
+Saturation=Saturazione
+Sharpness=Nitidezza
+Hue=Tinta
+USB Camera=USB Macchina
+Camera On=Macchina in Funzione
+Default=Default
+Load=Carica
+Save As=Salva con nome
+
+[VMCAMERAPROPERTY]
+Camera=Macchina
+Image=Immagine
+White Balance=Bilanciamento del Bianco 
+Auto=Auto
+Cyan=Cyan 
+Magenta=Magenta
+Yellow=Giallo
+Red=Rosso
+Green=Verde
+Blue=Blu
+Mirror=Rifletti
+Horizontal=Orizzontale
+Vertical=Verticale
+Spotlight=Spot
+Status LED=LED
+On=Acceso
+Off=Spento
+Exposure=Esposizione
+Shutter=Otturatore
+Shutter Speed=Otturatore
+Fast=Veloce
+Slow=Lento
+Flicker=Sfarfallio
+Outdoor=Esterno
+USB Bandwidth=Larghezza di Banda USB 
+Default=Default
+Load=Carica
+Save As=Salva con nome
+1 (Slowest)=1(Lento)
+2 (Slower)=2
+3 (Slow)=3
+4 (Middle)=4
+5 (Fast)=5
+6 (Faster)=6
+7 (Fastest)=7(Veloce)
+
+
+[VMPANTILTPROPERTY]
+Advanced=Avanzate
+Disable=Disabilita
+Mask=Maschera
+Manual Zoom=Zoom Manuale
+Smooth Background=Sfondo Morbido  
+Wide Screen=Schermo Panoramico
+Video Off=Video Spento
+Face Tracking=Face Tracking
+Tracking speed=Velocità di Tracking
+Picture in Picture=Immagine nell'Immagine
+Lower Right=Bassa Destra  
+Lower Left=Bassa Sinistra 
+Upper Right=Alta Destra  
+Upper Left=Alta Sinistra 
+Tracking Line=Linea di Tracking

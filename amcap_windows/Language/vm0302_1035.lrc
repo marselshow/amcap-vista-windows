@@ -1,0 +1,70 @@
+[VMCOLORPROPERTY]
+General=Yleinen
+Brightness=Kirkkaus 
+Contrast=Kontrasti
+Gamma=Gamma
+Saturation=Värikylläisyys
+Sharpness=Terävyys
+Hue=Värisävy
+USB Camera=USB Kamera
+Camera On=Kamera päälle
+Default=Oletus
+Load=Lataa
+Save As=Tallenna nimellä
+
+
+
+[VMCAMERAPROPERTY]
+Camera=Kamera
+Image=Kuva 
+White Balance=Valkotasapaino
+Auto=Auto
+Cyan=Syaani
+Magenta=Magenta
+Yellow=Keltainen
+Red=Punainen
+Green=Vihreä
+Blue=Sininen
+Mirror=Peilikuva
+Horizontal=Vaaka
+Vertical=Pysty
+Spotlight=Kohdevalo
+Status LED=LED
+On=Käytössä
+Off=Ei käytössä
+Exposure=Valotus
+Shutter=Suljin
+Shutter Speed=Suljin
+Fast=Nopea
+Slow=Hidas
+Flicker=Välkkyminen
+Outdoor=Ulkona
+USB Bandwidth=USB-kaistanleveys
+Default=Oletus
+Load=Lataa
+Save As=Tallenna nimellä
+1 (Slowest)=1(Hidas)
+2 (Slower)=2
+3 (Slow)=3
+4 (Middle)=4
+5 (Fast)=5
+6 (Faster)=6
+7 (Fastest)=7(Nopea)
+
+
+[VMPANTILTPROPERTY]
+Advanced=Lisäasetukset
+Disable=Poista käytöstä
+Mask=Naamio
+Manual Zoom=Manuaalinen zoomaus
+Smooth Background=Pehmeä tausta
+Wide Screen=a
+Video Off=Video pois päältä
+Face Tracking=Kasvojen seuranta
+Tracking speed=Seurantanopeus
+Picture in Picture=Kuva kuvassa
+Lower Right=Alhaalla oikealla
+Lower Left=Alhaalla vasemmalla
+Upper Right=Ylhäällä oikealla
+Upper Left=Ylhäällä vasemmalla
+Tracking Line=Seurantalinja

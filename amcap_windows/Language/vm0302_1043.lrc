@@ -1,0 +1,71 @@
+[VMCOLORPROPERTY]
+General=Algemeen
+Brightness=Helderheid
+Contrast=Contrast
+Gamma=Gamma
+Saturation=Verzadiging
+Sharpness=Scherpte
+Hue=Tint
+USB Camera=USB Camera
+Camera On=Camera aan
+Default=Standaard
+Load=Laden
+Save As=Opslaan als
+
+
+[VMCAMERAPROPERTY]
+Camera=Camera
+Image=Beeld
+White Balance=Witbalans
+Auto=Automatisch
+Cyan=Cyaan
+Magenta=Magenta
+Yellow=Geel
+Red=Rood
+Green=Groen
+Blue=Blauw
+Mirror=Spiegelen
+Horizontal=Horizontaal
+Vertical=Verticaal
+Spotlight=Spotlight
+Status LED=LED
+On=Aan
+Off=Uit
+Exposure=Belichting
+Shutter=Sluiter
+Shutter Speed=Sluiter
+Fast=Snel
+Slow=Langzaam
+Flicker=Flikkering
+Outdoor=Openlucht
+USB Bandwidth=USB-bandbreedte
+Default=Standaard
+Load=Laden
+Save As=Opslaan als
+1 (Slowest)=1(Langzaam)
+2 (Slower)=2
+3 (Slow)=3
+4 (Middle)=4
+5 (Fast)=5
+6 (Faster)=6
+7 (Fastest)=7(Snel)
+
+
+[VMPANTILTPROPERTY]
+
+Advanced=Geavanceerd
+Disable=Uitschakelen
+Mask=Maskeren
+Manual Zoom=Handmatig zoomen
+Smooth Background=Zachte achtergrond
+Wide Screen=Breedbeeld
+Video Off=Video uit
+Face Tracking=Gezicht volgen
+Tracking speed=Volgsnelheid
+Picture in Picture=Beeld in beeld
+Lower Right=Rechtsonder
+Lower Left=Linksonder
+Upper Right=Rechtsboven
+Upper Left=Linksboven
+Tracking Line=Volglijn
+

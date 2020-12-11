@@ -1,0 +1,133 @@
+[VMCOLORPROPERTY]
+Color=色調
+USB camera=USB カメラ
+Camera work O.K=カメラ動作ＯＫ
+Brightness=明るさ
+Contrast=コントラスト
+Gamma=ガンマ 
+Hue=Hue
+Saturation=彩度
+Sharpness=シャープネス
+Default=初期値
+Load=読み込み
+Save As=保存
+
+[VMCAMERAPROPERTY]
+Camera=カメラ
+White balance=ホワイトバランス
+Cyan=青緑色
+Magenta=マゼンタ色
+Yellow=黄
+Red=赤
+Green=緑
+Blue=青
+Exposure=露出
+Auto=自動
+Fast=速い
+Slow=遅い
+Shutter=シャッター
+Small=小さい
+Large=大きい
+Gain=ゲイン
+Mirror=ミラー
+horizontal=水平方向
+Vertical=垂直方向
+Flickness=設置場所
+Outdoor=屋外撮影
+50Hz=50Hz（東日本）
+60Hz=60Hz（西日本）
+USB bandwidth=USB バンド幅
+1 (Slowest)=1 (最も遅い)
+2 (Slower)=2 (より遅い)
+3 (Slow)=3 (遅い)
+4 (Middle)=4 (ミドル)
+5 (Fast)=5 (速い)
+6 (Faster)=6 (より速い)
+7 (Fastest)=7 (最も速い)
+Default=初期値
+Load=読み込み
+Save As=保存
+Camera status LED=信号指示
+On=オン
+Flash=フラッシュ
+Off=オフ
+
+
+[TWAIN]　　　　　　　　　　　　
+Setting=設定
+Format=フォーマット
+Capture=キャプチャー
+Transfer=トランスファー
+Close=閉じる
+Select Device=デバイス選択
+
+
+
+
+[VMFEATUREPROPERTY]
+Feature=特殊効果
+Normal Set=ノーマル設定
+Zoom=ｾﾛｽｹ
+Normal=ノーマル
+Image Effect=映像効果
+BlackWhite=
+Relief=
+Negative=
+Sepia=
+RainDrop=雨
+TV=テレビ
+Block=
+Canvas=油絵
+Dithering=ディザリング
+Shift=風吹き
+Particle=粒子
+Paint=水彩画
+GlassTile=ガラスタイル
+Mosaic=モザイク
+Photo Frames=写真フレーム
+Cloud=雲
+Calendar=ﾈﾕﾀ奛
+Player=
+Azalea=
+Vimicro=
+Angel=天使
+CartoonBoy=ｿｨﾍｨﾄﾐｺ｢
+MagicMirror=狙い撃ち
+RedPost=
+OrchidPost=スコープ
+RedTelescope=双眼鏡
+UserDefine=ユーザ定義
+Demo=デモ
+Stop=ﾍ｣ﾖｹ
+Load Frame=フレームの読み込み
+
+[VMPANTILTPROPERTY]
+Face Tracking && Zoom View=追跡・ズーム
+Face Tracking=フェイストラッキング
+Enable face tracking=有効
+Special Function=ﾌﾘﾐｧ
+Disable=非表示
+Mosaic=
+BackGround Smooth=
+Manual Zoom=
+Auto Zoom by Face Tracking=
+Tracking Speed=
+Picture In Picture=２画面表示
+Tracking Line=追跡位置
+Show Tracking Line=追跡位置表示
+Upper left=左上
+Upper right=右上
+Lower left=左下
+Lower right=右下
+Wide Screen=
+Video Mute=
+Face frame=フェイスポジション表示
+Obscure face (mosaic)=フェイスモザイク
+Grey background=スポットライト
+Smooth background=背景をぼかす
+Emulate pan && tilt=追跡モード
+Zoom View=ズーム
+Zoom setting=倍率設定
+Pan control=表示位置指定
+1X (Normal)=1X
+7 (Highest)=7

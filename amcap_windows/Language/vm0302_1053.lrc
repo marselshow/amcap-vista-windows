@@ -1,0 +1,70 @@
+;Swedish
+[VMCOLORPROPERTY]
+General=Allmänt
+Brightness=Ljusstyrka
+Contrast=Kontrast
+Gamma=Gamma
+Saturation=Mättnad
+Sharpness=Skärpa
+Hue=Nyans
+USB Camera=USB Kamera
+Camera On=Kamera på
+Default=Standard
+Load=Ladda
+Save As=Spara som
+
+
+[VMCAMERAPROPERTY]	
+Camera=Kamera
+Image=Bild
+White Balance=Vit balans
+Auto=Automatiskt
+Cyan=Cyanblå
+Magenta=Magenta
+Yellow=Gul
+Red=Röd
+Green=Grön
+Blue=Blå
+Mirror=Spegling
+Horizontal=Vågrätt
+Vertical=Lodrätt
+Spotlight=Spotlight
+Status LED=LED
+On=På
+Off=Av
+Exposure=Exponering
+Shutter=Slutare
+Shutter Speed=Slutare
+Fast=Snabbt
+Slow=Långsamt
+Flicker=Flimmer
+Outdoor=Utomhus
+USB Bandwidth=USB-bandbredd
+Default=Standard
+Load=Ladda
+Save As=Spara som
+1 (Slowest)=1(Långsamt)
+2 (Slower)=2
+3 (Slow)=3
+4 (Middle)=4
+5 (Fast)=5
+6 (Faster)=6
+7 (Fastest)=7(Snabbt)
+
+
+[VMPANTILTPROPERTY]	
+Advanced=Avancerat
+Disable=Inaktivera
+Mask=Mask
+Manual Zoom=Manuell zoom
+Smooth Background=Jämn bakgrund
+Wide Screen=Bredskärm
+Video Off=Video av
+Face Tracking=Ansiktsspårning
+Tracking speed=Spårningshastighet
+Picture in Picture=Bild i bild
+Lower Right=Nedre höger
+Lower Left=Nedre vänster
+Upper Right=Övre höger
+Upper Left=Övre vänster
+Tracking Line=Spårningslinje

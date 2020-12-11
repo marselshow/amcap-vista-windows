@@ -1,0 +1,70 @@
+[VMCOLORPROPERTY]
+General=Allgemein
+Brightness=Helligkeit
+Contrast=Kontrast
+Gamma=Gammakorrektur
+Saturation=Sättigung
+Sharpness=Schärfe
+Hue=Farbton
+USB Camera=USB Kamera
+Camera On=Kamera ein
+Default=Voreinstellung
+Load=Laden
+Save As=Speichern unter
+
+
+[VMCAMERAPROPERTY]
+Camera=Kamera
+Image=Bild
+White Balance=Weißabgleich
+Auto=Automatisch
+Cyan=Zyan
+Magenta=Magenta
+Yellow=Gelb
+Red=Rot
+Green=Grün
+Blue=Blau
+Mirror=Spiegeln
+Horizontal=Horizontal
+Vertical=Vertikal
+Spotlight=Spotlight
+Status LED=LED
+On=Ein
+Off=Aus
+Exposure=Belichtung
+Shutter=Verschluss
+Shutter Speed=Verschluss
+Fast=Schnell
+Slow=Langsam
+Flicker=Flimmern
+Outdoor=Tageslicht
+USB Bandwidth=USB-Bandbreite
+Default=Voreinstellung
+Load=Laden
+Save As=Speichern unter
+1 (Slowest)=1(Langsam)
+2 (Slower)=2
+3 (Slow)=3
+4 (Middle)=4
+5 (Fast)=5
+6 (Faster)=6
+7 (Fastest)=7(Schnell)
+
+
+[VMPANTILTPROPERTY]
+Advanced=Erweitert
+Disable=Ausschalten
+Mask=Maske
+Manual Zoom=Manueller Zoom
+Smooth Background=Hintergrundglättung
+Wide Screen=Breitbildformat
+Video Off=Video aus
+Face Tracking=Gesichtsverfolgung
+Tracking speed=Verfolgungsgeschwindigkeit 
+Picture in Picture=Bild im Bild
+Lower Right=Unten rechts
+Lower Left=Unten links
+Upper Right=Oben rechts
+Upper Left=Oben links
+Tracking Line=Verfolgungslinie
+
